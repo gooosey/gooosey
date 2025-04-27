@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning about web development
+⚒️ Odin project Foundation course 47% Complete
 
 
 # 💻 Tech Stack:
