@@ -1,7 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/gT3R0kndBvAAAAAj/goose-silly-goose.gif">
-# 💫 About Me:
-Hi there, I'm Goose, an intermediate Python programmer aspiring to be a Software Engineer.
 
+
+# About me ✨
+Hi there, I'm Goose. I'm an intermediate Python programmer, aspiring to be a Software Engineer in the future
+currently located in New Zealand
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
