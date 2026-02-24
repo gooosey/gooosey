@@ -2,7 +2,7 @@
 
 
 # About me ✨
-Hi there, I'm Goose. I'm an intermediate Python programmer, aspiring to be a Software Engineer in the future
+Hi there, I'm Hanlin. I'm an intermediate Python programmer, aspiring to be a Software Engineer in the future
 currently located in New Zealand
 
 # 💻 Tech Stack:
